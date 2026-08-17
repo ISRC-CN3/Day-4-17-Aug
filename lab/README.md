@@ -24,3 +24,20 @@ git clone https://github.com/ISRC-CN3/Day-4-17-Aug.git
 ```matlab
 addpath('fieldtrip-20250106')
 ft_defaults
+```
+
+
+
+
+# MEG Frequency Bands
+
+- **Delta (δ)**: 0.5–4 Hz — deep sleep, slow-wave activity
+- **Theta (θ)**: 4–8 Hz — drowsiness, memory processing, meditation
+- **Alpha (α)**: 8–13 Hz — relaxed wakefulness, eyes closed, occipital rhythms
+- **Beta (β)**: 13–30 Hz — active thinking, motor control, alertness
+  - Low beta: 13–20 Hz
+  - High beta: 20–30 Hz
+- **Gamma (γ)**: 30–100+ Hz — sensory binding, cognitive processing
+  - Low gamma: 30–60 Hz
+  - High gamma: 60–100+ Hz
+- **High-frequency oscillations (HFO)**: >100 Hz — sometimes studied in epilepsy research
